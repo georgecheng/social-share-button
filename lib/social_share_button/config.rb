@@ -12,6 +12,7 @@ module SocialShareButton
     # - twitter
     # - facebook
     # - google_plus
+    # - line
     # - weibo
     # - qq
     # - douban

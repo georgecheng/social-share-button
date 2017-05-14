@@ -1,6 +1,8 @@
 fr:
   social_share_button:
     share_to: Partager sur %{name}
+    buffer: Buffer
+    hootsuite: Hootsuite
     weibo: Sina Weibo
     twitter: Twitter
     facebook: Facebook

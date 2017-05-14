@@ -1,6 +1,8 @@
 'zh-TW':
   social_share_button:
     share_to: 分享到 %{name}
+    buffer: Buffer
+    hootsuite: Hootsuite    
     weibo: 新浪微博
     twitter: Twitter
     facebook: Facebook

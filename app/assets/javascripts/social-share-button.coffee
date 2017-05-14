@@ -37,6 +37,10 @@ window.SocialShareButton =
         SocialShareButton.openUrl("http://shuo.douban.com/!service/share?href=#{url}&name=#{title}&image=#{img}&sel=#{desc}", 770, 470)
       when "facebook"
         SocialShareButton.openUrl("http://www.facebook.com/sharer/sharer.php?u=#{url}&display=popup&title=#{title}&description=#{desc}", 555, 400)
+      when "hootsuite"
+        SocialShareButton.openUrl("https://hootsuite.com/hootlet/social-share?partner=Netvibes&#{url}&title=#{title}")
+      when "buffer"
+        SocialShareButton.openUrl("http://bufferapp.com/add?url=#{url}&text=#{title}")
       when "line"
         SocialShareButton.openUrl("https://timeline.line.me/social-plugin/share?url=#{url}")
       when "qq"

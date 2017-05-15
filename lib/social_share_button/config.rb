@@ -12,6 +12,8 @@ module SocialShareButton
     # - twitter
     # - facebook
     # - google_plus
+    # - buffer
+    # - hootsuite
     # - line
     # - weibo
     # - qq

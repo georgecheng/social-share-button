@@ -1,3 +1,8 @@
+0.10.2
+------
+
+* Add Buffer and Hootsuite support
+
 0.10.1
 ------
 

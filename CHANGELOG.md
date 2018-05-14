@@ -1,12 +1,19 @@
-0.10.2
+1.1.1
 ------
 
-* Add Buffer and Hootsuite support
+* Add Buffer, Hootsuite, and Line support
 
-0.10.1
-------
+1.1.0
+-----
 
-* Add Line support
+- Add German locales (#152)
+- Add Spanish (Castellano) locales (#154)
+- Added Ukrainian and Russian locales (#151)
+
+1.0.0
+-----
+
+- Fix Facebook by use quote in url rather than description (#143)
 
 0.10.0
 ------
